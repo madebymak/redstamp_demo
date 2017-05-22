@@ -1,0 +1,265 @@
+body {
+  background-color: #2c3a4e;
+  background-image: url("./assets/bg.jpg");
+  background-position: 0 2%;
+  background-repeat: repeat-x;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 130px;
+}
+
+p {
+  margin: 0;
+}
+
+/* I use this as a grid guide */
+.brd {
+  border: 0px solid red
+}
+
+.bg-gradient {
+  background: linear-gradient(to right, rgba(44,58,78,0) 0%, rgba(44,58,78,1) 100%);
+  width: 100%
+}
+
+.background-lines {
+  height: 614px;
+}
+
+.CF-logo {
+  height: 35px;
+  margin-top: 30px;
+	width: 235px;
+}
+
+.Speak-with-an-expert-1-415-471-1920 {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
+  margin-top: -7px;
+  padding-right: 90px;
+  text-align: right;
+}
+
+.Speak-with-an-expert-1-415-471-1920 .text-style-1 {
+  font-weight: 400;
+}
+
+.webinar-icon {
+  background-color: #61b48f;
+  border-radius: 8px;
+  font-size: 10px;
+  height: 26px;
+  margin: 30px 0 18px 0;
+  width: 76px;
+}
+
+.Budgeting-for-Training-Data {
+  font-size: 47px;
+  font-weight: 300;
+  height: 45px;
+  letter-spacing: 0.8px;
+  line-height: 0.51;
+  margin-top: 38px;
+}
+
+.November-16-2016-1000AM-PST {
+  color: #61b48f;
+  font-size: 22px;
+  height: 22px;
+  letter-spacing: 0.4px;
+  line-height: 2;
+  margin: 10px 0 35px 0;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-In-auc {
+  font-size: 18px;
+  font-weight: 300;
+  height: 137px;
+  letter-spacing: 0.3px;
+  line-height: 1.67;
+  margin-bottom: 29px;
+  width: 624px;
+}
+
+.Share {
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2.4px;
+  line-height: 2.93;
+}
+
+.twitterpng-200-twitter2xpng {
+  height: 14px;
+  margin: 0 6px;
+  width: 18px;
+}
+
+.Register-Today {
+  color: #eef0f4;
+  font-size: 22px;
+  height: 20px;
+  line-height: 0.82;
+  margin: 48px 0 26px 0;
+}
+
+.form-horizontal {
+  height: 44px;
+  margin: 20px 0;
+}
+
+.form-group {
+  padding-bottom: 10px;
+}
+
+.form-control {
+  height: 42px;
+}
+
+.Rectangle-8 {
+  background-color: #6095eb;
+  border-radius: 4px;
+  height: 44px;
+  width: 100%;
+}
+
+.Rectangle-4 {
+  background-color: #8e9fb1;
+  border-radius: 4px;
+  display: inline;
+  height: 26px;
+  margin-right: 20px;
+  padding: 6px;
+  width: 26px;
+}
+
+.Shape-2 {
+  height: 13.5px;
+  width: 15.9px;
+}
+
+.Bio_panel {
+  background-color: #ffffff;
+  color: #2c3e50;
+  height: 487.3px;
+  padding: 0 40px;
+}
+
+.green_highlight {
+  background-color: #61b48f;
+  height: 14px;
+}
+
+.About-the-Presenter {
+  color: #34495e;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 0.8;
+  letter-spacing: 0.5px;
+  margin: 41px 0;
+  text-align: center;
+}
+
+.profile-box {
+  text-align: center;
+  width: 50%;
+}
+
+.Robin-Bordoli-CEO-CrowdFlower-copy {
+  color: #8e9fb1;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.77;
+  letter-spacing: 1.6px;
+  margin: 5px;
+}
+
+.text-style-1 {
+  color: #34495e;
+  font-size: 24px;
+  font-weight: normal;
+  letter-spacing: normal;
+  line-height: 1.08;
+}
+
+.profile-info-box {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  text-align: left;
+}
+
+ .profile-social-box {
+  margin-top: 10px;
+  padding-left: 4px;
+ }
+
+.profile-pic-box {
+  padding: 0;
+  text-align: center;
+}
+
+.robin-bordoli-photo-copy {
+  background: gray;
+  border-radius: 50%;
+  height: 132px;
+  width: 132px;
+}
+
+.Lorem-ipsum-dolor-ipiscing-elit-Nam-sodales-risus-eget-suscipi {
+  color: #2c3e50;
+  font-size: 18px;
+  height: 137px;
+  letter-spacing: 0.3px;
+  line-height: 1.67;
+  padding: 39px 45px;
+  text-align: left;
+}
+
+.right-border {
+  border-right: 1px solid rgba(66,103,149, 0.2);
+}
+
+.divider {
+  border: 1px solid rgba(66, 103, 149, 0.2);
+  height: 160px;
+  margin: 75px 0 0 0;
+  opacity: 0.2;
+  width: 1px;
+}
+
+footer {
+  margin: 128px 50px;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.Follow-along-on-Twitter-CrowdFlower-HumanInTheLoop {
+  color: #6095eb;
+  font-size: 18px;
+  line-height: 1.89;
+}
+
+.text-style-3 {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.89;
+  margin-bottom: 10px;
+}
+
+.ftr_social {
+  height: 25px;
+  opacity: 0.3;
+  padding: 0 10px;
+}
+
+.Copyright-2016-CrowdFlower-Inc {
+  color: #56677b;
+  font-size: 15px;
+  line-height: 2.93;
+  text-align: right;
+}
